@@ -1,5 +1,5 @@
 {
-  "id": "vegas.stabilize.tripod",
+  "id": "com.hereliesaz.azphalt.tripod-stabilizer",
   "version": "1.0.0",
   "name": "Video Stabilization - Tripod Mode",
   "description": "Aggressively clamps offset and rotation to a strict inverse to lock the shot completely still.",
