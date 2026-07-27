@@ -4,9 +4,10 @@
   "name": "Video Stabilization - Tripod Mode",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
   "description": "Aggressively clamps offset and rotation to a strict inverse to lock the shot completely still.",
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
